@@ -1,4 +1,4 @@
-# -LightGBM-
+# Scorecard Model of Pre-loan Application Based on LightGBM Algorithm
 本项目基于脱敏后的贷前授信申请数据以及申请成功且用信客户的风险表现数据，应用LightGBM算法构建贷前申请评分卡模型，引入用户生命价值评分卡模型，并通过XlxsWriter自动生成标准化分析文档。
 LightGBM构建贷前申请评分卡模型代码执行顺序：  
 一、基于训练集样本建模
